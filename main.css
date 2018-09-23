@@ -1,14 +1,11 @@
 .container-1 {
     display: flex;
-<<<<<<< HEAD
     /* 
     align-items: flex-start;
     align-items: flex-end;
     align-items: center;
     */
     flex-direction: column;
-=======
->>>>>>> 6b04c01e31d934d15341a2f4c65ba9780c7774b3
 }
 
 .container-1 div {
